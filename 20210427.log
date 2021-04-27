@@ -1,0 +1,16 @@
+  117  ls
+  118  git clone https://www.github.com/garcarlos91/shell_class
+  119  cd shell_class
+  120  cat README.md
+  121  touch Text_file.txt
+  122  git add Text_file.txt
+  123  git status
+  124  git commit -m "Adding a new file"
+  125  gedit Text_file.txt
+  126  echo " This is my life"
+  127  echo " This is my life" >> Text_file.txt
+  128  git add Text_file.txt
+  129  git commit -m "Adding line"
+  130  git push -u origin main
+  131  git status
+  132  cd

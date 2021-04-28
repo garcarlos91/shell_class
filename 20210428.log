@@ -1,0 +1,234 @@
+sudo apt autoremove
+echo $SHELL
+echo $TERM
+whoami
+echo "My directory is $HOME"
+echo `date`
+cat Text_e
+remover
+remove
+delete
+cat Text_example.txt
+cd data
+cd airline_tickets
+cd..
+cd ..
+ls data
+cd ..
+ls data
+cd ~
+ls - lrt
+ll
+ls -lrt
+cd /data/shell
+cd data/shell
+cat Text_example.txt
+cat -n
+cd home/data
+cd /home/data
+cd data
+cd shell
+cat Text_example.txt
+cat -
+cat -n
+pwd
+cd
+cd data/
+ls
+cd /shell
+cd shell/
+ls
+cat Text_example.txt
+cd
+ls -lrt
+man ls
+ls -s
+man ls
+pwd
+cd data/shell/
+cat Text_example.txt
+mkdir one
+mkdir this and that
+man ls
+man mkdir
+cd
+mkdir first_dir
+ls
+cd first_dir
+touch text_file.txt
+ls
+man mkdir
+mkdir -p sub1 sub2 file_text
+ls
+cp text_file.txt sub 1
+cp text_file,txt sub1
+cp text_file.txt sub1
+ls
+cd
+ls
+cd first_dir
+ls
+rm sub2
+cd
+cat ~/.history > 20210422.log
+cat 20210422.log
+mkdir first_dir
+touch home/dsc/first_dir/text_file.txt
+touch home/dsc/first_dir/text_file.txt/
+touch first_dir/text_file.txt/
+cd first_dir
+pwc
+pwd
+man mkdir
+mkdir -p sub 1 sub 2 text_file
+rm 1
+mkdir sub1 sub2
+cd
+cd first_dir
+touch text_file.txt
+cp text_file.txt sub1
+mv txt_file sub2/text_file.txt.2
+mv text_file.txt sub2/text_file.txt.2/
+mv text_file.txt sub2/text_file.txt.2
+mkdir sub3
+cp -r sub1 sub3
+cd sub2
+mv text_file.txt.2 text_file.txt.backup
+mv text_file.txt.backup ~/first_dir
+cd
+ls
+cd first_dir
+ls
+ls -s
+man mv
+mv text_file.txt.backup .text_file.txt.backup
+ls
+ls -al
+man rv
+man rm
+rm -r sub2
+cd ~
+git config --global user.name "Carlos García"
+git config --global user.email  "garcarlos91@gmail.com"
+cat .git config
+cat .gitconfig
+mkdir git
+cd git
+ls
+git clone https://www.github.com/garcarlos91/shell_class
+cd shell_class
+cat README.md
+touch Text_file.txt
+git add Text_file.txt
+git status
+git commit -m "Adding a new file"
+gedit Text_file.txt
+echo " This is my life"
+echo " This is my life" >> Text_file.txt
+git add Text_file.txt
+git commit -m "Adding line"
+git push -u origin main
+git status
+cd
+history>20210427.log
+lr
+ls
+cp 20210427.log /home/dsc/git/shell_class
+cd git
+ls
+cd shell_class
+git add 20210427.log
+git commit -m "Adding my first class"
+git push -u origin main
+git status
+cd
+cat ~/.history > 202104272.log
+ls
+mv 20210427.log ~/git/shell_class
+cp git/shell_class
+cd git/shell_class
+git add 20210427.log
+git commit -m "second class"
+git push -u origin main
+git status
+cd
+mv 20210422.log ~/git/shell_class
+cd git/shell_class
+git add 20210422.log
+git commit -m "First class"
+git push -u origin main
+cd
+wc ~/data/README.md
+cat ~/.history| grip "git"
+cat ~/.history|grep "git"
+ls
+cd
+lsç
+ls
+cd data
+ls
+cd opentraveldata/ls
+cd opentraveldata
+ls
+man ls
+man
+man ls
+ls -l
+cd
+cd git
+cd
+git
+ls
+cd git
+cd shell_class
+q
+cd
+cd git
+git clone https://www.github.com/jquibla/Shell_Pandemic
+ls
+cd Shell_Pandemic
+ls
+cat README.md
+ls
+cat README.md
+git pull
+cat README.md
+git checkout -b Carlos
+man ls
+touch 001.sh
+ls ~/data/opentraveldata
+ls -lrt ~/data/opentraveldata
+man ls
+ls -Sl ~/data/opentraveldata
+ls -Sl ~/data/opentraveldata head -n 2 | tail -n 1
+cat ls -Sl ~/data/opentraveldata head -n 2 | tail -n 1
+echo 'ls -Sl ~/data/opentraveldata head -n | tail -1 >> 001.sh\
+git add 001.sh\
+git commit -m"ejercicio"\
+git status\
+q
+echo ' ls -Sl ~/data/opentraveldata head -n 2 | tail -1' >>001.sh
+git add 001.sh
+git commit -m "first exercise"
+git push -u origin Carlos
+touch 002.SH
+echo 'head -5 ~/data/shell/Finn.txt | wc -5' >> 002.SH
+bash 001.sh > 001.OUT
+bash 001 > 001.OUT
+git add 002.SH
+fit commit -m "Second exercise"
+git commit -m "second exercise"
+git push -u origin Carlos
+bash 001.sh >> 001.OUT
+bash 002.SH >> 002.OUT
+man cat
+cat -n  ~/data/shell/Text_example.txt
+cat -n5  ~/data/shell/Text_example.txt
+cat -n 5 ~/data/shell/Text_example.txt
+mv ~/git/Shell_Pandemic/001.sh ~/git/Shell_Pandemic/001.SH
+git add 001.SH
+git commit -m "First exercise"
+git push -u origin Carlos
+cd
+cat /.history > 20210428.log
+cat ~/.history > 20210428.log

@@ -1,0 +1,73 @@
+sudo apt autoremove
+echo $SHELL
+echo $TERM
+whoami
+echo "My directory is $HOME"
+echo `date`
+cat Text_e
+remover
+remove
+delete
+cat Text_example.txt
+cd data
+cd airline_tickets
+cd..
+cd ..
+ls data
+cd ..
+ls data
+cd ~
+ls - lrt
+ll
+ls -lrt
+cd /data/shell
+cd data/shell
+cat Text_example.txt
+cat -n
+cd home/data
+cd /home/data
+cd data
+cd shell
+cat Text_example.txt
+cat -
+cat -n
+pwd
+cd
+cd data/
+ls
+cd /shell
+cd shell/
+ls
+cat Text_example.txt
+cd
+ls -lrt
+man ls
+ls -s
+man ls
+pwd
+cd data/shell/
+cat Text_example.txt
+mkdir one
+mkdir this and that
+man ls
+man mkdir
+cd
+mkdir first_dir
+ls
+cd first_dir
+touch text_file.txt
+ls
+man mkdir
+mkdir -p sub1 sub2 file_text
+ls
+cp text_file.txt sub 1
+cp text_file,txt sub1
+cp text_file.txt sub1
+ls
+cd
+ls
+cd first_dir
+ls
+rm sub2
+cd
+cat ~/.history > 20210422.log

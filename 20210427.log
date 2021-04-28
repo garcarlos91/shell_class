@@ -1,16 +1,145 @@
-  117  ls
-  118  git clone https://www.github.com/garcarlos91/shell_class
-  119  cd shell_class
-  120  cat README.md
-  121  touch Text_file.txt
-  122  git add Text_file.txt
-  123  git status
-  124  git commit -m "Adding a new file"
-  125  gedit Text_file.txt
-  126  echo " This is my life"
-  127  echo " This is my life" >> Text_file.txt
-  128  git add Text_file.txt
-  129  git commit -m "Adding line"
-  130  git push -u origin main
-  131  git status
-  132  cd
+sudo apt autoremove
+echo $SHELL
+echo $TERM
+whoami
+echo "My directory is $HOME"
+echo `date`
+cat Text_e
+remover
+remove
+delete
+cat Text_example.txt
+cd data
+cd airline_tickets
+cd..
+cd ..
+ls data
+cd ..
+ls data
+cd ~
+ls - lrt
+ll
+ls -lrt
+cd /data/shell
+cd data/shell
+cat Text_example.txt
+cat -n
+cd home/data
+cd /home/data
+cd data
+cd shell
+cat Text_example.txt
+cat -
+cat -n
+pwd
+cd
+cd data/
+ls
+cd /shell
+cd shell/
+ls
+cat Text_example.txt
+cd
+ls -lrt
+man ls
+ls -s
+man ls
+pwd
+cd data/shell/
+cat Text_example.txt
+mkdir one
+mkdir this and that
+man ls
+man mkdir
+cd
+mkdir first_dir
+ls
+cd first_dir
+touch text_file.txt
+ls
+man mkdir
+mkdir -p sub1 sub2 file_text
+ls
+cp text_file.txt sub 1
+cp text_file,txt sub1
+cp text_file.txt sub1
+ls
+cd
+ls
+cd first_dir
+ls
+rm sub2
+cd
+cat ~/.history > 20210422.log
+cat 20210422.log
+mkdir first_dir
+touch home/dsc/first_dir/text_file.txt
+touch home/dsc/first_dir/text_file.txt/
+touch first_dir/text_file.txt/
+cd first_dir
+pwc
+pwd
+man mkdir
+mkdir -p sub 1 sub 2 text_file
+rm 1
+mkdir sub1 sub2
+cd
+cd first_dir
+touch text_file.txt
+cp text_file.txt sub1
+mv txt_file sub2/text_file.txt.2
+mv text_file.txt sub2/text_file.txt.2/
+mv text_file.txt sub2/text_file.txt.2
+mkdir sub3
+cp -r sub1 sub3
+cd sub2
+mv text_file.txt.2 text_file.txt.backup
+mv text_file.txt.backup ~/first_dir
+cd
+ls
+cd first_dir
+ls
+ls -s
+man mv
+mv text_file.txt.backup .text_file.txt.backup
+ls
+ls -al
+man rv
+man rm
+rm -r sub2
+cd ~
+git config --global user.name "Carlos García"
+git config --global user.email  "garcarlos91@gmail.com"
+cat .git config
+cat .gitconfig
+mkdir git
+cd git
+ls
+git clone https://www.github.com/garcarlos91/shell_class
+cd shell_class
+cat README.md
+touch Text_file.txt
+git add Text_file.txt
+git status
+git commit -m "Adding a new file"
+gedit Text_file.txt
+echo " This is my life"
+echo " This is my life" >> Text_file.txt
+git add Text_file.txt
+git commit -m "Adding line"
+git push -u origin main
+git status
+cd
+history>20210427.log
+lr
+ls
+cp 20210427.log /home/dsc/git/shell_class
+cd git
+ls
+cd shell_class
+git add 20210427.log
+git commit -m "Adding my first class"
+git push -u origin main
+git status
+cd
+cat ~/.history > 202104272.log
